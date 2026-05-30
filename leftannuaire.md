@@ -39,8 +39,8 @@
 ### Documentaires
 - Ni Dieu Ni Maître : Une histoire de l'anarchisme
     * [Episode 1 & 2 : La Volupté de la destruction (1840-1914) et La Mémoire des vaincus (1911-1945)](https://www.youtube.com/watch?v=bgmClo2LPls)
-    * [Episode 3 : Des Fleurs et des pavés (1945-1969)](https://www.youtube.com/watch?v=95X9t-smwns)
-    * [Episode 4 : Les Réseaux de la colère (1965-2012)](https://www.youtube.com/watch?v=hSuFRJBPwvE)
+    * [Episode 3 : Des Fleurs et des pavés (1945-1969)](https://www.youtube.com/watch?v=sqjGroqpies)
+    * [Episode 4 : Les Réseaux de la colère (1965-2012)](https://www.youtube.com/watch?v=ktzzIXi4BDc)
 
 
 ### Bibliothèque numérique
