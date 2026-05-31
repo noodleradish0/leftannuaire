@@ -9,23 +9,26 @@
     - [Vidéos](#vidéos)
   - [Antiracisme](#antiracisme)
     - [Podcasts](#podcasts)
+    - [Presse écrite](#presse-écrite-1)
   - [Féminisme](#féminisme)
     - [Podcasts](#podcasts-1)
-    - [Presse écrite](#presse-écrite-1)
+    - [Presse écrite](#presse-écrite-2)
     - [Vidéos](#vidéos-1)
   - [Marxisme](#marxisme)
-    - [Presse écrite](#presse-écrite-2)
+    - [Presse écrite](#presse-écrite-3)
     - [Vidéos](#vidéos-2)
     - [Wiki](#wiki)
 - [Thématiques](#thématiques)
   - [Antifascisme](#antifascisme)
   - [Ecologie](#ecologie)
-    - [Presse écrite](#presse-écrite-3)
+    - [Presse écrite](#presse-écrite-4)
+  - [Philosophie](#philosophie)
+    - [Podcasts](#podcasts-2)
   - [Sociologie](#sociologie)
     - [Vidéos](#vidéos-3)
   - [Technologies](#technologies)
 - [Ressources transverses](#ressources-transverses)
-  - [Podcasts](#podcasts-2)
+  - [Podcasts](#podcasts-3)
   - [Vidéos](#vidéos-4)
   - [Médias](#médias)
     - [Politique et critique sociale](#politique-et-critique-sociale)
@@ -69,6 +72,9 @@
 ### Podcasts
 - [Kiff ta race](https://www.binge.audio/podcast/kiffetarace/)
 
+### Presse écrite
+- [Histoires crépues](https://histoirescrepues.fr/) ([vidéos](https://www.youtube.com/@histoirescrepues))
+
 
 ## Féminisme
 
@@ -81,6 +87,7 @@
 
 ### Vidéos
 - [Cass Andre](https://www.youtube.com/@cass_andre)
+- [Illegally Blondes](https://www.youtube.com/@illegallyblondesyoutube)
 
 
 ## Marxisme
@@ -106,6 +113,11 @@
 
 ### Presse écrite
 - [Reporterre](https://reporterre.net/)
+
+
+## Philosophie
+### Podcasts
+- [Le Phil d'Actu](https://www.lephildactu.fr/)
 
 
 ## Sociologie
