@@ -10,13 +10,15 @@
   - [Antiracisme](#antiracisme)
     - [Podcasts](#podcasts)
     - [Presse écrite](#presse-écrite-1)
+    - [Vidéos](#vidéos-1)
   - [Féminisme](#féminisme)
     - [Podcasts](#podcasts-1)
     - [Presse écrite](#presse-écrite-2)
-    - [Vidéos](#vidéos-1)
-  - [Marxisme](#marxisme)
-    - [Presse écrite](#presse-écrite-3)
     - [Vidéos](#vidéos-2)
+  - [Marxisme](#marxisme)
+    - [Editeurs](#editeurs-1)
+    - [Presse écrite](#presse-écrite-3)
+    - [Vidéos](#vidéos-3)
     - [Wiki](#wiki)
 - [Thématiques](#thématiques)
   - [Antifascisme](#antifascisme)
@@ -25,11 +27,11 @@
   - [Philosophie](#philosophie)
     - [Podcasts](#podcasts-2)
   - [Sociologie](#sociologie)
-    - [Vidéos](#vidéos-3)
+    - [Vidéos](#vidéos-4)
   - [Technologies](#technologies)
 - [Ressources transverses](#ressources-transverses)
   - [Podcasts](#podcasts-3)
-  - [Vidéos](#vidéos-4)
+  - [Vidéos](#vidéos-5)
   - [Médias](#médias)
     - [Politique et critique sociale](#politique-et-critique-sociale)
     - [Culture et contre-culture](#culture-et-contre-culture)
@@ -56,7 +58,7 @@
 
 
 ### Presse écrite
-- [Lundi Matin](https://lundi.am/)
+- [Lundi Matin](https://lundi.am/) ([podcasts](https://lundi.am/lundisoir))
 - [Contre Attaque](https://contre-attaque.net/)
 - [ACTA](https://acta.zone/)
 - [Socialisme Libertaire](https://www.socialisme-libertaire.fr/)
@@ -75,6 +77,9 @@
 ### Presse écrite
 - [Histoires crépues](https://histoirescrepues.fr/) ([vidéos](https://www.youtube.com/@histoirescrepues))
 
+### Vidéos
+- [Paroles d'Honneur](https://www.youtube.com/channel/UCTth6-5ZiCD_CUJ6xOMug_w)
+
 
 ## Féminisme
 
@@ -91,6 +96,9 @@
 
 
 ## Marxisme
+
+### Editeurs
+[Les Editions sociales](https://editionssociales.fr/)
 
 ### Presse écrite
 - [Positions revue](https://positions-revue.fr/)
