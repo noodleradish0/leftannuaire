@@ -163,6 +163,7 @@
     * [La débauche](https://www.youtube.com/watch?v=zJqx2lfi58o&list=PLv1KZC6gJTFmTpn9F6swgUqTKoE4aaJyP)
     * [Légitime défense](https://www.youtube.com/watch?v=9BIpA8twG1s&list=PLv1KZC6gJTFmrg2ipoA0xk6wFbpPj3NgU)
     * [L'empire n'a jamais pris fin](https://www.youtube.com/watch?v=_s8zaFi36gY&list=PLv1KZC6gJTFlbdBD_610rc3yAd5x3qu56&pp=0gcJCdAEOCosWNin)
+    * [Ghetto Blaster](https://www.youtube.com/watch?v=GxEAZz-e52o&list=PLv1KZC6gJTFmbcvvOl1q_wgaSe-PlCSsf)
 - [Le Média](https://www.lemediatv.fr/)
 - [Canard réfractaire](https://www.youtube.com/channel/UCWGsN59FON3vOtXCozQPsZQ)
   
