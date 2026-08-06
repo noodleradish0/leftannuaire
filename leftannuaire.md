@@ -30,6 +30,7 @@
     - [Vidéos](#vidéos-4)
   - [Technologies](#technologies)
 - [Ressources transverses](#ressources-transverses)
+  - [Infokiosques](#infokiosques)
   - [Podcasts](#podcasts-3)
   - [Vidéos](#vidéos-5)
   - [Médias](#médias)
@@ -139,6 +140,9 @@
 
 
 # Ressources transverses
+
+## Infokiosques
+- [Infokiosque.net](https://infokiosques.net/)
 
 ## Podcasts
 - [Spectre](https://spectremedia.org/)
