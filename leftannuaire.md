@@ -16,6 +16,7 @@
     - [Presse écrite](#presse-écrite-2)
     - [Vidéos](#vidéos-2)
   - [Marxisme](#marxisme)
+    - [Bibliothèque numérique](#bibliothèque-numérique-1)
     - [Editeurs](#editeurs-1)
     - [Presse écrite](#presse-écrite-3)
     - [Vidéos](#vidéos-3)
@@ -98,10 +99,15 @@
 
 ## Marxisme
 
+### Bibliothèque numérique
+- [Marxists.org](https://www.marxists.org)
+
 ### Editeurs
-[Les Editions sociales](https://editionssociales.fr/)
+- [Les Editions sociales](https://editionssociales.fr/)
 
 ### Presse écrite
+- [Jeunesse du Monde](https://jeunessedumonde.fr/)
+- [Le Manifeste](https://urcommuniste.fr/notre-journal-le-manifeste/)
 - [Positions revue](https://positions-revue.fr/)
 - [Contretemps](https://www.contretemps.eu/)
 
