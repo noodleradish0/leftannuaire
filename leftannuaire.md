@@ -167,15 +167,16 @@
 ### Politique et critique sociale
 - [Frustration Magazine](https://frustrationmagazine.fr/)
 - [Blast](https://www.blast-info.fr/)
-    * [Rhinocéros](https://www.youtube.com/watch?v=lwkOjGsz9mE&list=PLv1KZC6gJTFkFmZmlejLN6qyV7gvcmXwd)
-    * [Dissolution](https://www.youtube.com/watch?v=XfXd0zvN-U8&list=PLv1KZC6gJTFk4rM0HK83AunCISbN_wxJL&pp=0gcJCdAEOCosWNin)
-    * [Contrastes](https://www.youtube.com/watch?v=rBXiclTeAO0&list=PLv1KZC6gJTFkik7v2wmViUyFFyysvmbU1)
-    * [La débauche](https://www.youtube.com/watch?v=zJqx2lfi58o&list=PLv1KZC6gJTFmTpn9F6swgUqTKoE4aaJyP)
-    * [Légitime défense](https://www.youtube.com/watch?v=9BIpA8twG1s&list=PLv1KZC6gJTFmrg2ipoA0xk6wFbpPj3NgU)
-    * [L'empire n'a jamais pris fin](https://www.youtube.com/watch?v=_s8zaFi36gY&list=PLv1KZC6gJTFlbdBD_610rc3yAd5x3qu56&pp=0gcJCdAEOCosWNin)
-    * [Ghetto Blaster](https://www.youtube.com/watch?v=GxEAZz-e52o&list=PLv1KZC6gJTFmbcvvOl1q_wgaSe-PlCSsf)
+    - [Rhinocéros](https://www.youtube.com/watch?v=lwkOjGsz9mE&list=PLv1KZC6gJTFkFmZmlejLN6qyV7gvcmXwd)
+    - [Propaganda](https://www.youtube.com/watch?v=kd7X9H-CiAM&list=PLGojMFdOz-LM) (anciennement [Dissolution](https://www.youtube.com/watch?v=XfXd0zvN-U8&list=PLv1KZC6gJTFk4rM0HK83AunCISbN_wxJL&pp=0gcJCdAEOCosWNin))
+    - [Contrastes](https://www.youtube.com/watch?v=rBXiclTeAO0&list=PLv1KZC6gJTFkik7v2wmViUyFFyysvmbU1)
+    - [La débauche](https://www.youtube.com/watch?v=zJqx2lfi58o&list=PLv1KZC6gJTFmTpn9F6swgUqTKoE4aaJyP)
+    - [Légitime défense](https://www.youtube.com/watch?v=9BIpA8twG1s&list=PLv1KZC6gJTFmrg2ipoA0xk6wFbpPj3NgU)
+    - [L'empire n'a jamais pris fin](https://www.youtube.com/watch?v=_s8zaFi36gY&list=PLv1KZC6gJTFlbdBD_610rc3yAd5x3qu56&pp=0gcJCdAEOCosWNin)
+    - [Ghetto Blaster](https://www.youtube.com/watch?v=GxEAZz-e52o&list=PLv1KZC6gJTFmbcvvOl1q_wgaSe-PlCSsf)
 - [Le Média](https://www.lemediatv.fr/)
 - [Canard réfractaire](https://www.youtube.com/channel/UCWGsN59FON3vOtXCozQPsZQ)
+  - [Actu réfractaire](https://www.youtube.com/channel/UCFemKOoYVrTGUhuVzuNPt4A)
   
 ### Culture et contre-culture
 - [Radio Nova](https://www.nova.fr/)
